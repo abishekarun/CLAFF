@@ -6,6 +6,7 @@ This directory contains the ULMFiT models from fastai that we ran for both the s
 |------------|---------------------|
 | [LSTM](https://nbviewer.jupyter.org/github/abishekarun/CLAFF/blob/master/Fastai/lstm_agency/fastai_lstm_agency.ipynb)| [LSTM](https://nbviewer.jupyter.org/github/abishekarun/CLAFF/blob/master/Fastai/lstm_social/fastai_lstm_social.ipynb) |
 | [BiLSTM](https://nbviewer.jupyter.org/github/abishekarun/CLAFF/blob/master/Fastai/bilstm_agency/fastai_bilstm_agency.ipynb) |[BiLSTM](https://nbviewer.jupyter.org/github/abishekarun/CLAFF/blob/master/Fastai/bilstm_social/fastai_bilstm_social.ipynb) |
+
 The resources that helped me are:
 
 + [Universal language models](http://nlp.fast.ai/classification/2018/05/15/introducting-ulmfit.html)
