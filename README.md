@@ -4,12 +4,12 @@ This work was done for the CLAFF shared task held as a part of the Affective Con
 
 The dataset can be found [here](https://github.com/abishekarun/CLAFF/blob/master/data/) and our paper can be found [here](https://arxiv.org/abs/1906.03677). Our Elmo model showed the best performance on both subtasks and won the first position.
 
-|    **Model**  | **READme** |
+|    **Model Directory**  | **READme file** |
 |--------------------|------------|
-| Glove | [README](https://github.com/abishekarun/CLAFF/blob/master/Glove/README.md)|
-| CoVe | [README](https://github.com/abishekarun/CLAFF/blob/master/Cove/README.md) |
-| Elmo | [README](https://github.com/abishekarun/CLAFF/blob/master/Elmo/README.md) |
-| Fastai | [README](https://github.com/abishekarun/CLAFF/blob/master/Fastai/README.md) |
+| [Glove](https://github.com/abishekarun/CLAFF/blob/master/Glove/) | [1](https://github.com/abishekarun/CLAFF/blob/master/Glove/README.md)|
+| [CoVe](https://github.com/abishekarun/CLAFF/blob/master/Cove/) | [2](https://github.com/abishekarun/CLAFF/blob/master/Cove/README.md) |
+| [Elmo](https://github.com/abishekarun/CLAFF/blob/master/Elmo/) | [3](https://github.com/abishekarun/CLAFF/blob/master/Elmo/README.md) |
+| [Fastai](https://github.com/abishekarun/CLAFF/blob/master/Fastai/) | [4](https://github.com/abishekarun/CLAFF/blob/master/Fastai/README.md) |
 
 The resources that helped me are:
 

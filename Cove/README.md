@@ -1,4 +1,4 @@
-## CL-AFF SHARED TASK: IN PURSUIT OF HAPPINESS
+## Contextualized Word Vectors
 
 This directory contains all the models ran with CoVe embeddings for both the subtasks. We used the official source code that was released with the paper. It can be found [here](https://github.com/salesforce/cove).
 The models were all LSTM with attention with 1 hidden layer and 1024 hidden units.

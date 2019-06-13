@@ -1,11 +1,11 @@
-## CL-AFF SHARED TASK: IN PURSUIT OF HAPPINESS
+## Universal Language models
 
 This directory contains the ULMFiT models from fastai that we ran for both the shared task. We tried doing the semi supervised learning with fastai as well as we tried to add our most confident predictions to our dataset and train again to improve performance. The links to various jupyter notebook files can be found below. 
 
-|    **Model**  | **Agency** | **Social** |
-|--------------------|------------|---------------------|
-| LSTM | [LSTM](https://nbviewer.jupyter.org/github/abishekarun/CLAFF/blob/master/Fastai/lstm_agency/fastai_lstm_agency.ipynb)| [LSTM](https://nbviewer.jupyter.org/github/abishekarun/CLAFF/blob/master/Fastai/lstm_social/fastai_lstm_social.ipynb) |
-| BiLSTM | [BiLSTM](https://nbviewer.jupyter.org/github/abishekarun/CLAFF/blob/master/Fastai/bilstm_agency/fastai_bilstm_agency.ipynb) |[BiLSTM](https://nbviewer.jupyter.org/github/abishekarun/CLAFF/blob/master/Fastai/bilstm_social/fastai_bilstm_social.ipynb) |
+| **Agency** | **Social** |
+|------------|---------------------|
+| [LSTM](https://nbviewer.jupyter.org/github/abishekarun/CLAFF/blob/master/Fastai/lstm_agency/fastai_lstm_agency.ipynb)| [LSTM](https://nbviewer.jupyter.org/github/abishekarun/CLAFF/blob/master/Fastai/lstm_social/fastai_lstm_social.ipynb) |
+| [BiLSTM](https://nbviewer.jupyter.org/github/abishekarun/CLAFF/blob/master/Fastai/bilstm_agency/fastai_bilstm_agency.ipynb) |[BiLSTM](https://nbviewer.jupyter.org/github/abishekarun/CLAFF/blob/master/Fastai/bilstm_social/fastai_bilstm_social.ipynb) |
 The resources that helped me are:
 
 + [Universal language models](http://nlp.fast.ai/classification/2018/05/15/introducting-ulmfit.html)

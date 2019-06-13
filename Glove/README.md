@@ -1,12 +1,12 @@
-## CL-AFF SHARED TASK: IN PURSUIT OF HAPPINESS
+## Glove Embeddings
 
 This directory contains all the models ran with glove embeddings for both the subtasks. The models were all RNN variations namely, LSTM, LSTM with attention and GRU. The links to various jupyter notebook files can be found below. 
 
-|    **Model**  | **Agency** | **Social** |
-|--------------------|------------|---------------------|
-| LSTM | [LSTM](https://nbviewer.jupyter.org/github/abishekarun/CLAFF/blob/master/Glove/Notebooks/Agency/LSTM_Agency.ipynb)| [LSTM](https://nbviewer.jupyter.org/github/abishekarun/CLAFF/blob/master/Glove/Notebooks/Social/LSTM_Social.ipynb) |
-| LSTM_Attention | [LSTM-A](https://nbviewer.jupyter.org/github/abishekarun/CLAFF/blob/master/Glove/Notebooks/Agency/LSTM_Attention_Agency.ipynb) |[LSTM-A](https://nbviewer.jupyter.org/github/abishekarun/CLAFF/blob/master/Glove/Notebooks/Social/LSTM_Attention_Social.ipynb) |
-| GRU | [GRU](https://nbviewer.jupyter.org/github/abishekarun/CLAFF/blob/master/Glove/Notebooks/Agency/GRU_Agency.ipynb) |[GRU](https://nbviewer.jupyter.org/github/abishekarun/CLAFF/blob/master/Glove/Notebooks/Social/GRU_Social.ipynb) |
+| **Agency** | **Social** |
+|------------|---------------------|
+| [LSTM](https://nbviewer.jupyter.org/github/abishekarun/CLAFF/blob/master/Glove/Notebooks/Agency/LSTM_Agency.ipynb)| [LSTM](https://nbviewer.jupyter.org/github/abishekarun/CLAFF/blob/master/Glove/Notebooks/Social/LSTM_Social.ipynb) |
+| [LSTM-Attention](https://nbviewer.jupyter.org/github/abishekarun/CLAFF/blob/master/Glove/Notebooks/Agency/LSTM_Attention_Agency.ipynb) |[LSTM-Attention](https://nbviewer.jupyter.org/github/abishekarun/CLAFF/blob/master/Glove/Notebooks/Social/LSTM_Attention_Social.ipynb) |
+| [GRU](https://nbviewer.jupyter.org/github/abishekarun/CLAFF/blob/master/Glove/Notebooks/Agency/GRU_Agency.ipynb) |[GRU](https://nbviewer.jupyter.org/github/abishekarun/CLAFF/blob/master/Glove/Notebooks/Social/GRU_Social.ipynb) |
 
 The resources that helped me are:
 

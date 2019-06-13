@@ -1,4 +1,4 @@
-## CL-AFF SHARED TASK: IN PURSUIT OF HAPPINESS
+## Deep Contextualized Word vectors
 
 This directory contains all the models ran with elmo embeddings for both the subtasks. The models were all LSTM with attention and we did semi supervised learning wherein we added most confident predictions of our model to our dataset and trained again. We also present visualization results of our attention to understand our models better. 
 
