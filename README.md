@@ -5,7 +5,7 @@ This work was done for the CLAFF shared task held as a part of the Affective Con
 The dataset can be found [here](https://github.com/abishekarun/CLAFF/blob/master/data/) and our paper can be found [here](https://arxiv.org/abs/1906.03677). Our Elmo model showed the best performance on both subtasks and won the first position.
 
 |    **Model**  | **READme** |
-|--------------------|------------|---------------------|
+|--------------------|------------|
 | Glove | [README](https://github.com/abishekarun/CLAFF/blob/master/Glove/README.md)|
 | CoVe | [README](https://github.com/abishekarun/CLAFF/blob/master/Cove/README.md) |
 | Elmo | [README](https://github.com/abishekarun/CLAFF/blob/master/Elmo/README.md) |
