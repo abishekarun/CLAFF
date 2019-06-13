@@ -1,0 +1,81 @@
+
+Epoch: 1, Training Loss: 0.1878, Validation Loss: 0.0068, Validation Accuracy: 0.9228
+, Validation AUC: 0.9223
+ Validation F1 score: 0.9262
+ 
+Epoch: 2, Training Loss: 0.1294, Validation Loss: 0.0066, Validation Accuracy: 0.9290
+, Validation AUC: 0.9284
+ Validation F1 score: 0.9322
+ 
+Epoch: 3, Training Loss: 0.1180, Validation Loss: 0.0067, Validation Accuracy: 0.9295
+, Validation AUC: 0.9289
+ Validation F1 score: 0.9325
+ 
+Epoch: 4, Training Loss: 0.0995, Validation Loss: 0.0076, Validation Accuracy: 0.9313
+, Validation AUC: 0.9309
+ Validation F1 score: 0.9342
+ 
+Epoch: 5, Training Loss: 0.0827, Validation Loss: 0.0086, Validation Accuracy: 0.9252
+, Validation AUC: 0.9249
+ Validation F1 score: 0.9280
+ 
+Epoch: 6, Training Loss: 0.0596, Validation Loss: 0.0084, Validation Accuracy: 0.9280
+, Validation AUC: 0.9274
+ Validation F1 score: 0.9318
+ 
+Epoch: 7, Training Loss: 0.0456, Validation Loss: 0.0094, Validation Accuracy: 0.9242
+, Validation AUC: 0.9236
+ Validation F1 score: 0.9283
+ 
+Epoch: 8, Training Loss: 0.0390, Validation Loss: 0.0103, Validation Accuracy: 0.9209
+, Validation AUC: 0.9203
+ Validation F1 score: 0.9251
+ 
+Epoch: 9, Training Loss: 0.0312, Validation Loss: 0.0111, Validation Accuracy: 0.9195
+, Validation AUC: 0.9190
+ Validation F1 score: 0.9241
+ 
+Epoch: 10, Training Loss: 0.0265, Validation Loss: 0.0123, Validation Accuracy: 0.9181
+, Validation AUC: 0.9178
+ Validation F1 score: 0.9231
+ 
+Epoch: 11, Training Loss: 0.0207, Validation Loss: 0.0125, Validation Accuracy: 0.9186
+, Validation AUC: 0.9180
+ Validation F1 score: 0.9231
+ 
+Epoch: 12, Training Loss: 0.0202, Validation Loss: 0.0126, Validation Accuracy: 0.9200
+, Validation AUC: 0.9194
+ Validation F1 score: 0.9245
+ 
+Epoch: 13, Training Loss: 0.0178, Validation Loss: 0.0128, Validation Accuracy: 0.9200
+, Validation AUC: 0.9195
+ Validation F1 score: 0.9245
+ 
+Epoch: 14, Training Loss: 0.0182, Validation Loss: 0.0130, Validation Accuracy: 0.9200
+, Validation AUC: 0.9194
+ Validation F1 score: 0.9244
+ 
+Epoch: 15, Training Loss: 0.0172, Validation Loss: 0.0131, Validation Accuracy: 0.9200
+, Validation AUC: 0.9194
+ Validation F1 score: 0.9244
+ 
+Epoch: 16, Training Loss: 0.0172, Validation Loss: 0.0131, Validation Accuracy: 0.9200
+, Validation AUC: 0.9194
+ Validation F1 score: 0.9244
+ 
+Epoch: 17, Training Loss: 0.0162, Validation Loss: 0.0131, Validation Accuracy: 0.9195
+, Validation AUC: 0.9189
+ Validation F1 score: 0.9240
+ 
+Epoch: 18, Training Loss: 0.0168, Validation Loss: 0.0132, Validation Accuracy: 0.9195
+, Validation AUC: 0.9189
+ Validation F1 score: 0.9240
+ 
+Epoch: 19, Training Loss: 0.0166, Validation Loss: 0.0132, Validation Accuracy: 0.9190
+, Validation AUC: 0.9185
+ Validation F1 score: 0.9236
+ 
+Epoch: 20, Training Loss: 0.0180, Validation Loss: 0.0132, Validation Accuracy: 0.9195
+, Validation AUC: 0.9189
+ Validation F1 score: 0.9240
+ 
